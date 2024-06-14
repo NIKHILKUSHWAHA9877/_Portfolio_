@@ -1,0 +1,1535 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@800&display=swap');
+
+body {
+    color: #141c3a;
+    font-weight: 400;
+    line-height: 1.5;
+    font-family: 'Prompt', sans-serif;
+    margin: 0;
+    padding: 0;
+    border-radius: 9px;
+}
+
+
+
+/* introduction */
+
+
+.section.is-primary .title {
+    color: white;
+    /*white was here */
+    background-color: #6E07F3;
+}
+
+/* .column{
+background-color: #6E07F3 !important;
+
+} */
+.subtitle {
+    font-family: "europa", sans-serif;
+    line-height: 1.5;
+}
+
+.title {
+    color: #363636;
+    font-size: 2rem;
+    font-weight: 800;
+    line-height: 1.125;
+}
+
+.title:not(:last-child) {
+    margin-bottom: 1.5rem;
+}
+
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "eurostile", sans-serif;
+    font-weight: 800;
+}
+.ProjectsTitles{
+    font-weight: 800;
+}
+
+
+
+/* introduction end */
+
+
+
+.section.is-primary {
+    background-color: #6E07F3;
+    color: white;
+}
+
+.columns {
+    margin-left: -0.75rem;
+    margin-right: -0.75rem;
+    margin-top: -0.75rem;
+}
+
+.has-text-weight-normal {
+    font-weight: 600 !important;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.column{
+    display: block;
+    flex-basis: 0;
+    flex-grow: 1;
+    flex-shrink: 1;
+    padding: 0.75rem;
+    position: relative;
+}
+
+.columns:last-child {
+    margin-bottom: -0.75rem;
+}
+
+
+/* this is bringing skill part above the intro part */
+.sec.skills {
+    margin-top: -14rem;
+    padding-bottom: 1rem;
+}
+
+/* this is bringing skill part above the intro part */
+
+
+/* skill whole coaintner settings */
+.sec {
+    padding: 5rem 1.5rem;
+}
+
+.container.is-narrow {
+    max-width: 1500px;
+}
+
+.container {
+    flex-grow: 1;
+    margin: 0 auto;
+    position: relative;
+    width: auto;
+}
+body {
+    color: #141c3a;
+    font-weight: 400;
+    line-height: 1.5;
+    font-family: 'Prompt', sans-serif;
+    margin: 0;
+    padding: 0;
+    border-radius: 9px;
+}
+
+
+
+/* introduction */
+
+
+.section.is-primary .title {
+    color: white;
+    /*white was here */
+    background-color: #6E07F3;
+}
+
+/* .column{
+background-color: #6E07F3 !important;
+
+} */
+.subtitle {
+    font-family: "europa", sans-serif;
+    line-height: 1.5;
+}
+
+.title {
+    color: #363636;
+    font-size: 2rem;
+    font-weight: 800;
+    line-height: 1.125;
+}
+
+.title:not(:last-child) {
+    margin-bottom: 1.5rem;
+}
+
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "eurostile", sans-serif;
+    font-weight: 800;
+}
+
+/* introduction end */
+
+
+
+.section.is-primary {
+    background-color: #6E07F3;
+    color: white;
+}
+
+.columns {
+    margin-left: -0.75rem;
+    margin-right: -0.75rem;
+    margin-top: -0.75rem;
+}
+
+.has-text-weight-normal {
+    font-weight: 600 !important;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.column {
+    display: block;
+    flex-basis: 0;
+    flex-grow: 1;
+    flex-shrink: 1;
+    padding: 0.75rem;
+    position: relative;
+}
+
+.columns:last-child {
+    margin-bottom: -0.75rem;
+}
+
+
+/* this is bringing skill part above the intro part */
+.sec.skills {
+    margin-top: -14rem;
+    padding-bottom: 1rem;
+}
+
+/* this is bringing skill part above the intro part */
+
+
+/* skill whole coaintner settings */
+.sec {
+    padding: 5rem 1.5rem;
+}
+
+.container.is-narrow {
+    max-width: 1500px;
+}
+
+.container {
+    flex-grow: 1;
+    margin: 0 auto;
+    position: relative;
+    width: auto;
+}
+
+.sec.skills .box .content .columns .column {
+    padding: 50px 30px;
+    border-bottom: 0px solid #E6ECF8;
+    border-right: 1px solid #E6ECF8;
+    border-radius: 15px;
+}
+
+.sec.skills .box {
+    padding: 11px;
+}
+
+
+
+.box {
+    background-color: #ffffff;
+    border-radius: 15px;
+    box-shadow: 0 5px 5px 0 rgba(233, 240, 243, 0.5), 0 0 0 1px #E6ECF8;
+    color: #141c3a;
+    display: block;
+    padding: 1.25rem;
+}
+
+/* skill whole coaintner settings end */
+
+
+
+
+/* skills logos */
+.fa-stack-1x {
+    height: 4em;
+    width: 2em;
+
+}
+
+.has-text-dark {
+    color: #141c3a !important;
+}
+
+.svg-inline--fa {
+    height: 1em;
+    vertical-align: -0.125em;
+
+}
+
+.fa-2x {
+    font-size: 2em;
+
+}
+
+.has-text-success {
+    color: #5BE9B9 !important;
+    font-size: 2em;
+}
+
+
+.has-text-success {
+    position: absolute;
+    /* left: 213px;
+bottom: 670px; */
+
+}
+
+.fa-stack-1x {
+    position: relative;
+}
+
+.fa-layer-plus , .fa-square-terminal , .fa-book{
+    /* font-size: 30px;
+    font-weight: 800; */
+margin-top:  12px;
+}
+
+
+
+/* skills logo end */
+
+
+
+
+/* skills heading */
+.content h1:not(:first-child) {
+    margin-top: 1em;
+}
+
+.title:not(:last-child) {
+    margin-bottom: 1.5rem;
+}
+
+/* skills heading end */
+
+
+
+
+/* skills heading small heading */
+.sec.skills .box .content .columns .column p.list-title {
+    margin-top: 50px;
+    margin-bottom: 8px;
+}
+
+.has-text-primary {
+    color: #6E07F3 !important;
+}
+
+/* skills heading small heading end */
+
+
+
+
+
+/* ul list design */
+.sec.skills .box .content .columns .column ul {
+    list-style: none;
+    margin-left: 0;
+    margin-top: 0;
+}
+
+.content ul {
+    list-style: disc outside;
+    margin-left: 2em;
+    margin-top: 1em;
+}
+
+ul {
+    list-style: none;
+}
+
+ol,
+ul,
+li,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin: 0;
+    padding: 0;
+}
+
+ol,
+ul {
+    list-style: none;
+}
+
+.content li+li {
+    margin-top: 0.25em;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+} 
+
+/* ul list design end */
+
+
+
+
+   /* no media query above here */
+
+
+
+.sec.skills .box .content .columns .column {
+    padding: 50px 30px;
+    border-bottom: 0px solid #E6ECF8;
+    border-right: 1px solid #E6ECF8;
+    border-radius: 15px;
+}
+
+.sec.skills .box {
+    padding: 11px;
+}
+
+
+
+.box {
+    background-color: #ffffff;
+    border-radius: 15px;
+    box-shadow: 0 5px 5px 0 rgba(233, 240, 243, 0.5), 0 0 0 1px #E6ECF8;
+    color: #141c3a;
+    display: block;
+    padding: 1.25rem;
+}
+
+/* skill whole coaintner settings end */
+
+
+
+
+/* skills logos */
+.fa-stack-1x {
+    height: 4em;
+    width: 2em;
+
+}
+
+.has-text-dark {
+    color: #141c3a !important;
+}
+
+.svg-inline--fa {
+    height: 1em;
+    vertical-align: -0.125em;
+
+}
+
+.fa-2x {
+    font-size: 2em;
+
+}
+
+.has-text-success {
+    color: #5BE9B9 !important;
+    font-size: 2em;
+}
+
+
+.has-text-success {
+    position: absolute;
+    /* left: 213px;
+bottom: 670px; */
+}
+
+.fa-stack-1x {
+    position: relative;
+}
+
+.fa-layer-plus , .fa-square-terminal , .fa-book{
+    /* font-size: 30px;
+    font-weight: 800; */
+margin-top:  12px;
+}
+
+
+
+/* skills logo end */
+
+
+
+
+/* skills heading */
+.content h1:not(:first-child) {
+    margin-top: 1em;
+}
+
+.title:not(:last-child) {
+    margin-bottom: 1.5rem;
+}
+
+/* skills heading end */
+
+
+
+
+/* skills heading small heading */
+.sec.skills .box .content .columns .column p.list-title {
+    margin-top: 50px;
+    margin-bottom: 8px;
+}
+
+.has-text-primary {
+    color: #6E07F3 !important;
+}
+
+/* skills heading small heading end */
+
+
+
+
+
+/* ul list design */
+.sec.skills .box .content .columns .column ul {
+    list-style: none;
+    margin-left: 0;
+    margin-top: 0;
+}
+
+.content ul {
+    list-style: disc outside;
+    margin-left: 2em;
+    margin-top: 1em;
+}
+
+ul {
+    list-style: none;
+}
+
+ol,
+ul,
+li,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin: 0;
+    padding: 0;
+}
+
+ol,
+ul {
+    list-style: none;
+}
+
+.content li+li {
+    margin-top: 0.25em;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+
+/* ul list design end */
+
+@media screen and (min-width: 1024px) {
+    .container {
+        max-width: 980px;
+        
+
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .is-size-3-desktop {
+        font-size: 3.1rem ;
+    }
+}
+
+
+
+@media screen and (min-width: 1024px) {
+    .columns:not(.is-desktop) {
+        display: flex;
+       
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .is-size-5-desktop {
+        font-size: 1.2rem !important;
+        margin-top: 30px;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .section {
+        padding: 3rem 3rem;
+    }
+
+    .section {
+        padding: 3rem 1.5rem;
+    }
+
+    .has-text-centered {
+        text-align: center !important;
+    }
+
+    article,
+    aside,
+    figure,
+    footer,
+    header,
+    hgroup,
+    section {
+        display: block;
+    }
+
+
+    .navbar-brand{
+        font-size: 23px;
+       padding: 20px;
+    
+}
+}
+
+
+
+@media screen and (max-width: 1000px) {
+        .container {
+
+           width: 960px;
+
+        }
+
+        .sec.skills .box .content .columns .column {
+            padding: 50px 30px;
+            border-bottom: 2px solid #E6ECF8;
+            border-right: 0px solid #E6ECF8;
+        }
+.columns:not(.is-desktop) {
+        display: flex;
+       
+    }
+
+    .section {
+        padding: 0.5rem 0.5rem;
+    }
+
+    .section {
+        padding: 0.5rem 1.5rem;
+    }
+
+    .has-text-centered {
+        text-align: center !important;
+    }
+
+    article,
+    aside,
+    figure,
+    footer,
+    header,
+    hgroup,
+    section {
+        display: block;
+    }
+    .is-size-5-desktop {
+        font-size: 2.8rem !important;
+        margin-top: 50px;
+    }
+
+    body{
+
+        font-size: 30px;
+    }
+
+
+    .fa-stack{
+        font-size: 40px;
+       
+    }
+
+    .is-size-4-mobile{
+        font-size: 4rem !important;
+       margin-top: 20px;
+    }
+
+    .content p{
+        font-size: 25px !important;
+       
+    }
+
+
+    .navbar-brand{
+        font-size: 25px;
+       padding: 25px;
+    
+}
+
+.sk{
+    padding: 20px !important;
+    font-size: 12px !important;
+     }
+.two{
+    margin-top: 100px;
+   
+  }
+  .sk_img{
+    margin-top: 140px;
+   width: 900px !important;
+  }
+  .sk_h1{
+    font-size:  45px;
+  }
+  section.sk{
+    height: 135vh; 
+    width: 100%; 
+ text-align: center;
+ position: sticky;
+  top: 0;
+ 
+ } 
+ .sk_h2{
+    font-size: 34px ; 
+    margin-top: 18px; 
+     }
+.korok2{
+    font-size: 50px !important;
+   
+}
+
+     .list-title{
+        font-size: 30px !important;
+      }
+      .main-footer__row > p{
+
+        font-size: 15px ;
+    }
+    .text-lt{
+
+    font-size: 12px;
+    }
+    .heading-sm > span{
+
+        font-size: 15px;
+
+    }
+    .Download_btn{
+
+        font-size: 30px !important;
+    } 
+    .main-footer__lower {
+        padding: 3.5rem 0;
+    }
+    
+    .main-footer__lower {
+        padding: 1.5rem 0 !important;
+        border-top: 1px solid #444;
+        color: #eee;
+        font-size: 2rem !important;
+        text-align: left;
+        text-align: center;
+    } 
+}
+@media screen and (max-width: 990px){
+    .Other_projhead{
+        font-size: 120px !important;
+        white-space: nowrap;
+    }
+    }
+@media screen and (min-width: 895px) and (max-width: 999px){
+    .kPQvdk2 {
+        -webkit-flex-wrap: wrap;
+        -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+      /* height: 120vh !important; */
+        }
+        video{
+            height: 80% !important;
+            width: 80% !important;
+          /* margin-bottom: 160px !important; */
+        }
+        .Other_projhead{
+font-size: 100px;
+white-space: nowrap;
+        }
+        .other_projecttext1{
+            white-space: nowrap;
+        }
+.other_projecttex{
+font-size: 20px !important;
+width: 200%;
+}
+.other_projectDiv{
+
+width: 138% !important;
+}
+}
+@media screen and (min-width: 770px) and (max-width: 980px) {
+/* bilkul perfect shayed no */
+    .container {
+
+        width: 960px;
+
+     }
+
+
+.columns:not(.is-desktop) {
+     display: flex;
+    
+ }
+
+ .section {
+     padding: 0.5rem 0.5rem;
+ }
+
+ .section {
+     padding: 0.5rem 1.5rem;
+ }
+
+ .has-text-centered {
+     text-align: center !important;
+ }
+
+ article,
+ aside,
+ figure,
+ footer,
+ header,
+ hgroup,
+ section {
+     display: block;
+ }
+ .is-size-5-desktop {
+     font-size: 2rem !important;
+     margin-top: 50px;
+ }
+
+ body{
+
+     font-size: 30px;
+ }
+ 
+
+ .fa-stack{
+     font-size: 40px;
+    
+ }
+
+ .is-size-4-mobile{
+     font-size: 5rem !important;
+    margin-top: 20px;
+ }
+
+ .content p{
+     font-size: 25px !important;
+    
+ }
+
+
+ .navbar-brand{
+     font-size: 30px;
+    padding: 28px;
+ 
+}
+
+.sk{
+ padding: 20px !important;
+ font-size: 12px !important;
+  }
+.two{
+ margin-top: 100px;
+
+}
+.sk_img{
+ margin-top: 140px;
+width: 900px !important;
+}
+
+section.sk{
+    height: 56vh; 
+    width: 100%; 
+ text-align: center;
+ position: sticky;
+  top: 0;
+ 
+ } 
+
+
+.sk_h1{
+ font-size:  50px;
+}
+
+.sk_h2{
+    font-size: 35px ; 
+    margin-top: 17px; 
+     }
+
+
+  .list-title{
+     font-size: 130px !important;
+   }
+
+   .is-size-4{
+
+font-size: 35px;
+
+   }
+   
+ section.is-medium{
+    height: 70vh; 
+
+ }
+
+
+ .sec.skills .box .content .columns .column {
+    padding: 50px 30px;
+    border-bottom: 2px solid #E6ECF8;
+    border-right: 0px solid #E6ECF8;
+}
+
+.main-footer__row > p{
+
+    font-size: 15px !important;
+}
+.text-lt{
+
+    font-size: 12px !important;
+    }
+    .heading-sm > span{
+
+        font-size: 15px !important;
+
+    }
+    .Download_btn{
+
+        font-size: 30px !important;
+    } 
+    .main-footer__lower {
+        padding: 3.5rem 0;
+    }
+    
+    .main-footer__lower {
+        padding: 1.5rem 0;
+        border-top: 1px solid #444;
+        color: #eee;
+        font-size: 1.2rem !important;
+        text-align: left;
+        text-align: center;
+    } 
+    .in{
+        justify-content:space-between;
+        }
+      
+}
+
+
+
+
+
+/* 
+trial */
+
+/* 
+@media screen and (max-width: 1000px) {
+    .content p{
+        font-size: 30px ;
+       
+    }
+
+
+    .navbar-brand{
+        font-size: 25px;
+       padding: 20px;
+    
+}
+
+.sk{
+    padding: 20px !important;
+    font-size: 12px !important;
+     }
+.two{
+    margin-top: 100px;
+   
+  }
+  .sk_img{
+    margin-top: 140px;
+   width: 800px !important;
+  }
+
+  .sk_h1{
+    font-size:  45px;
+  }
+  .sk_h2{
+    font-size: 40px ;
+     }
+     
+     .is-spaced{
+
+font-size: 60px;
+margin-top: 20px;
+     }
+     .subtitle{
+
+font-size: 2rem;
+
+     }
+
+     .list-title{
+        font-size: 33px !important;
+      }
+
+body{
+
+    font-size: 40px;
+}
+
+    .is-size-4-mobile{
+        font-size: 3rem;
+       margin-top: 20px;
+    }
+
+    .subtitle{
+        font-size: 1.9rem;
+       padding: 20px;
+    }
+
+    .is-size-4{
+        font-size: 2.5rem;
+       
+    }
+    .fa-stack{
+        font-size: 45px;
+       
+    }
+}
+       */
+
+
+
+/* 
+trial end */
+
+
+
+
+/* ul list design end */
+
+
+
+/* 
+@media screen and (min-width: 990px) {
+    .is-size-4-mobile{
+        font-size: 3rem;
+       margin-top: 20px;
+    }
+}
+
+
+
+
+@media screen and (max-width: 990px) {
+    .subtitle{
+        font-size: 1.9rem;
+       padding: 20px;
+    }
+}
+
+
+@media screen and (max-width: 990px) {
+    .is-size-4{
+        font-size: 2.5rem;
+       
+    }
+}
+
+@media screen and (max-width: 990px) {
+    body{
+        font-size: 30px;
+       
+    }
+}
+
+@media screen and (max-width: 990px) {
+    .fa-stack{
+        font-size: 45px;
+       
+    }
+}
+ */
+
+ 
+@media screen and (max-width: 769px) {
+    .list-tbody {
+    color: #141c3a;
+    font-weight: 400;
+    line-height: 1.5;
+    font-family: 'Prompt', sans-serif;
+    margin: 0;
+    padding: 0;
+    border-radius: 9px;
+}
+
+
+
+
+
+/* ul list design end */
+
+
+
+@media screen and (min-width: 769px) {
+    .section.skills .box .content .columns .column {
+        font-size: 18px;
+
+    }
+}
+
+
+@media screen and (max-width: 769px) {
+    .column{
+padding: 30px;
+
+   }
+}
+
+@media screen and (max-width: 769px) {
+    .is-size-3-desktop{
+     font-size:  45px !important;
+padding: 30px !important;
+   }
+} 
+
+
+@media screen and (max-width: 769px) {
+    .list-title{
+     font-size:  33px;
+   }
+} 
+
+
+
+@media screen and (max-width: 769px) {
+    body {
+        font-size: 30px;
+    }
+}
+
+
+
+
+
+ @media screen and (max-width: 769px) {
+    .fa-stack{
+        font-size: 43px;
+
+    }
+} 
+
+@media screen and (max-width: 769px) {
+    .is-spaced{
+        font-size: 45px;
+font-weight: 800;
+
+    }
+} 
+
+
+
+@media screen and (min-width: 769px) {
+    .section.is-long {
+        padding-bottom: 16rem;
+    }
+}
+
+
+@media screen and (max-width: 769px) {
+    .columns:not(.is-desktop) {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        align-items: center;
+        justify-content: center;
+    }
+}
+
+
+
+
+@media screen and (min-width: 769px) {
+    .section.skills .box .content .columns .column {
+        border-bottom: 0px solid #E6ECF8;
+        border-right: 1px solid #E6ECF8;
+        padding: 60px 35px;
+    }
+}
+
+@media screen and (min-width: 769px) {
+    .section.skills .box .content .columns .column p {
+        font-size: 18px;
+    }
+}
+
+@media screen and (min-width: 769px) {
+    .content p {
+        font-size: 19px;
+    }
+
+    .has-text-centered {
+        text-align: center !important;
+    }
+}
+
+
+@media screen and (max-width: 769px) {
+    .svg-inline--fa{
+       /* font-size: 30px;
+       font-weight: 800; */
+margin-bottom: 17px;
+
+   }
+} 
+
+
+@media screen and (max-width: 769px) {
+    .fa-layer-plus , .fa-square-terminal , .fa-book{
+       /* font-size: 30px;
+       font-weight: 800; */
+margin-top:  12px;
+
+   }
+} 
+
+@media screen and (max-width: 769px) {
+    .column > p{
+margin-top:  22px;
+
+   }
+} 
+
+@media screen and (max-width: 769px) {
+    .subtitle{
+        font-size: 3rem;
+line-height: 4rem;
+font-family: "eurostile", sans-serif;
+   }
+} 
+
+
+
+@media screen and (min-width: 780px) {
+    .content p{
+        font-size: 30px;
+       
+    }
+
+
+    .navbar-brand{
+        font-size: 25px;
+       padding: 20px;
+    
+}
+
+.sk{
+    padding: 20px !important;
+    font-size: 12px !important;
+     }
+.two{
+    margin-top: 100px;
+   
+  }
+  .sk_img{
+    margin-top: 140px;
+   width: 800px !important;
+  }
+
+  .sk_h1{
+    font-size:  45px;
+  }
+  .sk_h2{
+    font-size: 40px ;
+     }
+     
+}
+.title{
+     font-size:  33px;
+   }
+} 
+
+
+
+
+
+@media screen and (max-width: 376px){
+
+    .subtitle{
+        font-size: 3.5rem !important;
+line-height: 4rem;
+font-family: "eurostile", sans-serif;
+   }
+
+   .content p{
+    font-size: 43px !important;
+   
+}
+
+.is-spaced{
+
+font-size: 55px !important;
+
+}
+
+
+.navbar-brand{
+    font-size: 35px;
+   padding: 30px;
+
+}
+
+.sk{
+padding: 20px !important;
+font-size: 12px !important;
+ }
+ .sk_h1{
+
+    font-size: 35px !important;
+
+ }
+.two{
+margin-top: 100px;
+font-size: 60px !important;
+}
+.sk_img{
+margin-top: 12rem;
+width: 800px !important;
+}
+
+.sk_h2{
+font-size: 42px !important;
+ }
+ 
+
+.title{
+ font-size:  45px;
+}
+
+section{
+    height: 150vh; 
+    width: 100%; 
+ text-align: center;
+ position: sticky;
+  top: 0;
+ 
+ } 
+
+ .btn--theme{
+font-size: 25px !important;
+margin-top: 30px;
+ 
+ }
+
+ body{
+
+    font-size: 40px;
+}
+
+
+.fa-stack{
+    font-size: 55px;
+   
+}
+
+.list-title{
+    font-size: 1165px !important;
+}
+}
+
+
+
+/* button animation css */
+
+*,
+*:after,
+*:before {
+	box-sizing: border-box;
+}
+
+
+:root {
+	--transition: 0.25s;
+	--spark: 4.8s;
+}
+
+
+
+
+
+.Download_btn{
+	--active: 0;   
+	--bg:
+		radial-gradient(
+			40% 50% at center 100%,
+			hsl(270 calc(var(--active) * 97%) 72% / var(--active)),
+			transparent
+		),
+		
+		hsl(260 calc( 97%) calc(( 44%) + 12%));
+	background: yellow;
+	font-size: 1.5rem;
+	border: 0;
+	cursor: pointer;
+	padding: 0.9em 1.3em;
+	align-items: center;
+	
+	white-space: nowrap;
+	border-radius: 100px;
+	box-shadow:
+		0 0 calc( 6em) calc(var(--active) * 3em) hsl(260 97% 61% / 0.75),
+		0 0.05em 0 0 hsl(260 calc(var(--active) * 97%) calc((var(--active) * 50%) + 30%)) inset,
+		0 -0.05em 0 0 hsl(260 calc(var(--active) * 97%) calc(var(--active) * 60%)) inset;
+	transition: box-shadow var(--transition), scale var(--transition), background var(--transition);
+	scale: calc(1 + (var(--active) * 0.1));
+}
+
+
+
+/* three sparkles logos */
+.sparkle path {
+	color: hsl(0 0% calc((var(--active, 0) * 70%) + var(--base)));
+	transform-box: fill-box;
+	transform-origin: center;
+	fill: currentColor;
+	stroke: currentColor;
+	animation-delay: calc((var(--transition) * 1.5) + (var(--delay) * 1s));
+	animation-duration: 0.6s;
+	transition: color var(--transition);
+}
+
+.spark {
+	position: absolute;
+	inset: 0;
+	border-radius: 100px;
+	overflow: hidden;
+}
+.Download_btn:is(:hover, :focus-visible) path {
+	animation-name: bounce;
+}
+
+@keyframes bounce {
+	35%, 65% {
+		scale: var(--scale);
+	}
+}
+
+.sparkle path:nth-of-type(1) {
+	--scale: 0.5;
+	--delay: 0.1;
+	--base: 40%;
+}
+
+.sparkle path:nth-of-type(2) {
+	--scale: 1.5;
+	--delay: 0.2;
+	--base: 20%;
+}
+
+.sparkle path:nth-of-type(3) {
+	--scale: 2.5;
+	--delay: 0.35;
+	--base: 30%;
+}
+/* three spart logos end */
+
+
+
+/* button border on click purple */
+.Download_btn:before {
+	content: "";
+	position: absolute;
+	inset: -0.25em;
+	z-index: -1;
+	border: 0.25em solid hsl(260 97% 50% / 0.5);
+	border-radius: 100px;
+	opacity: var(--active, 0);
+	transition: opacity var(--transition);
+}
+/* button border purple end */
+
+
+
+
+
+/* color effect on click */
+
+.Download_btn:is(:hover) ~ :is(.bodydrop, .particle-pen) {
+	--active: 1;
+    background: hsl(
+		260
+		calc(var(--active) * 97%)
+		6%
+	);
+    position: fixed;
+	inset: 0;
+	z-index: -1;
+	
+}
+
+/* .bodydrop {
+
+} */
+
+
+.Download_btn:hover {
+	--active: 1;
+	--play-state: running;
+}
+
+
+
+.Download_text{
+    color: black;
+   font-weight: 500;
+}
+
+
+/* color effect on click  end*/
+
+
+/* sparkles position setting */
+.Download_btn svg {
+	inline-size: 1.25em;
+	translate: -25% -5%;
+}
+/* sparkles position setting end*/
+
+
+
+
+/* button animation css end*/
+
+
+
+/* wow */
+  
+
+
+/* wow end */
